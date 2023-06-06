@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isaac3597.
+- Currently persuing Software engineer in ALX.
 - 👀 I’m interested in web development and networking.
-- 🌱 I’m currently learning frameworks and CCNA 200-301.
 -  AWS Certified Cloud Practitioner.
 -  Python enthusiast.
 - 📫 How to reach me isaacchebii3597@gmail.com
