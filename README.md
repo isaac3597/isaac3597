@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @isaac3597.
+- 👋 Hi There, I’m @isaac3597.
 - Currently persuing Software engineer in ALX.
-- 👀 I’m interested in web development and networking.
--  AWS Certified Cloud Practitioner.
+- Aspriring probem solver to current problems facing Africa and the Whole world.
+- 👀 I’m interested in Software Engineering,Cloud Computing,web development and networking.
+-  I am also an AWS Certified Cloud Practitioner.
 -  Python enthusiast.
-- 📫 How to reach me isaacchebii3597@gmail.com
+- 📫 If interested reach me out in email through  me isaacchebii3597@gmail.com
+- 
 
 <!---
 isaac3597/isaac3597 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
